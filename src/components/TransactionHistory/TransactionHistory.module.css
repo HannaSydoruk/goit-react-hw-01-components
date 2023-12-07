@@ -1,0 +1,20 @@
+.transaction-history {
+  width: 70%;
+  margin: 0 auto 80px auto;
+  font-size: 14px;
+  color: darkblue;
+  background-color: lightcyan;
+}
+
+.thead {
+  background-color: lightblue;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.type,
+.amount,
+.currency {
+  text-align: center;
+  padding: 10px;
+}
